@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    background: url(../home/img/backgraund_home.jpg);
+    color: #fff;
+    background-size: cover;
+}
+header{
+    background-color: rgb(0 0 0 / .5);
+    color: #fff;
+    padding: 22px;
+    text-align: center;
+}
+.navbar{
+    background-color: rgb(0 0 0 / .5);
+  color: #fff;
+    padding: 40px;
+    
+}
+.Instructions{
+   
+    background-color: rgb(0 0 0 / .5);
+  color: #fff;
+
+ 
+   padding: 40px;
+  }
+  .s1{
+    float: right;
+    
+  }
+  .navbar img{
+    float: right;
+  }
+  
